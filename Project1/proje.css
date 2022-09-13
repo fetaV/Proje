@@ -1,0 +1,100 @@
+.background {
+  height: 40px;
+  background-color: rgb(14, 14, 71);
+  z-index: 1;
+}
+
+#logo {
+  width: 230px;
+  height: 220px;
+  border-radius: 50%;
+  position: relative;
+  top: -20px;
+  z-index: 9;
+}
+
+#carouselExampleIndicators {
+  top: -50px;
+}
+
+.nav {
+  font-size: 13px;
+}
+
+.carousel-inner {
+  height: 400px;
+}
+.baslik {
+  font-size: 30px;
+  color: green;
+}
+.background-2 {
+  background-color: rgb(36, 36, 36);
+  padding: 20px;
+}
+#padding {
+  padding-left: 15%;
+  padding-right: 15%;
+}
+#padding2 {
+  padding-left: 8%;
+  padding-right: 8%;
+}
+
+#background-2 {
+  background-color: white;
+}
+
+#image {
+  width: 400px;
+  height: 300px;
+}
+
+#midMenu {
+  font-size: 30px;
+  text-decoration: none;
+}
+
+#icon {
+  margin-left: 15px;
+  margin-top: 15px;
+  height: 100px;
+  width: 100px;
+}
+
+#image2 {
+  height: 150px;
+  width: 250px;
+}
+
+#background3 {
+  background-color: gray;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 15%;
+  padding-right: 15%;
+  margin-top: 30px;
+}
+
+#otherMenu {
+  font-size: 25px;
+  text-decoration: none;
+}
+
+.background4 {
+  background-color: rgb(14, 14, 71);
+  height: 350px;
+}
+
+#icons {
+  height: 37px;
+  width: 30px;
+  margin-top: 15px;
+  margin-left: 10px;
+  padding-left: 3px;
+}
+
+#map {
+  height: 200px;
+  width: 1500px;
+}
